@@ -71,4 +71,14 @@
 ### 03 Summary points from a paper titled, "A Cost-effective, High-throughput, Highly Accurate Genotyping Method for Outbred Populations"
 ### Link/DOI:https://doi.org/10.1186/s13059-019-1720-5
 
-###TODO....... 
+### Key points; 
+- SNP arrays often perform poorly in diverse populations, requiring costly population-specific designs, especially in structured model organisms.
+- NGS sequencing with high depth coverage to make direct calls is expensive. 
+- Pairing low coverage NGS (GBS/WGS) with imputation from reference panels provide a more economic solution 
+- This was applicable on HS rats models 
+
+### 04 Summary points from a paper title, "A joint use of pooling and imputation for genotyping SNPs" 
+### Link/DOI:https://doi.org/10.1186/s12859-022-04974-7
+
+### Key points; 
+-   
