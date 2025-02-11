@@ -1,11 +1,11 @@
 ## The following contains summary points from the selected 25 papers on Chapter 01 sysematic review
-### AOB: Important AI tools for literature reviewing 
-01 Paper digest 
-02 Elicit.org 
-03 Litmaps
-04 Connected Papers 
-05 Research rabbits 
-06 Lateral.io 
+- AOB: Important AI tools for literature reviewing 
+  01. Paper digest 
+  02. Elicit.org 
+  03. Litmaps
+  04. Connected Papers 
+  05. Research rabbits 
+  06. Lateral.io 
  
 ## The title is on, "A Review on Genotyping for Model organisms" 
 
