@@ -64,4 +64,34 @@
 ### Link/DOI:https://doi.org/10.1186/s12864-021-07698-9
 
 ### Key points; 
-- 
+- This study introduces a cost-effective and flexible SNP genotyping assay using high-throughput sequencing for speed congenics in mice, an approach applicable to other model organisms.
+- The assay surveys 1640 genome-wide SNPs, providing a high density of diagnostic markers for differentiating various mouse strains and substrains, which can accelerate the creation of congenic lines.
+- A custom bioinformatic pipeline was developed to analyze the sequencing data, enabling SNP genotyping and calculation of the percentage of alleles matching the backcross recipient strain.
+- The method's flexibility allows for adaptation to different strain combinations and integration of additional SNPs, making it a valuable tool for QTL mapping, ancestry analysis, and other genetic studies in model organisms
+
+### 07 Summary points from a paper title, "Development of a next generation SNP genotyping array for wheat" 
+### Link/DOI:https://doi.org/10.1111/pbi.14341
+
+### Key points;
+- This paper describes the development of the 'Triticum aestivum Next Generation' (TaNG) Axiom SNP array, a high-throughput genotyping tool for hexaploid wheat, a major crop model.
+- The TaNG array leverages recent advances in wheat sequencing to provide improved genome-wide coverage and capture a greater range of genetic diversity compared to previous arrays.
+- The array contains 43,372 SNPs selected using a novel haplotype optimization approach, resulting in a more even distribution of markers across the wheat genome.
+- The TaNG array demonstrates improved performance for GWAS and CNV analysis, making it a valuable tool for genetic studies and breeding programs in wheat and potentially other complex plant genomes.
+
+### 08 Summary points from a paper title, "Effects of spaced k-mers on alignment-free genotyping" 
+### Link/DOI:https://doi.org/10.1093/bioinformatics/btad202
+
+### Key points;
+- This paper introduces MaskedPanGenie, an improved alignment-free genotyping tool that incorporates spaced k-mers to enhance sensitivity, particularly in low-coverage data.
+- MaskedPanGenie builds on the existing PanGenie software, which leverages pangenome graphs and linkage disequilibrium to genotype variants rapidly and with reduced reference bias.
+- The addition of spaced k-mers allows for more robust genotyping by accounting for sequencing errors and mutations, increasing the proportion of correctly mapped k-mers to variant alleles.
+- The study demonstrates that spaced k-mers significantly improve sensitivity and F-score for genotyping SNPs, indels, and structural variants compared to contiguous k-mers, especially in challenging datasets.
+
+### 09 Summary points from a paper title, "Development and Applications of a High Throughput Genotyping Tool for Polyploid Crops: Single Nucleotide Polymorphism (SNP) Array" 
+### Link/DOI:https://doi.org/10.3389/fpls.2018.00104
+
+### Key points;
+- SNP arrays are a high-throughput and cost-efficient genotyping approach, but their application in polyploid crops lags behind diploid species due to the complexity of polyploid genomes.
+- Next-generation sequencing (NGS) technologies, particularly genotyping-by-sequencing (GBS), have become valuable for SNP discovery and genotyping in polyploids, but require higher read depths than in diploids.
+- Distinguishing between homologous, homoeologous, and paralogous SNPs in allopolyploids remains a significant challenge due to high sequence similarity between subgenomes.
+- The review provides an overview of SNP array development and applications in polyploid crops, discussing SNP selection criteria, available arrays, genotype calling software, and future perspectives.
